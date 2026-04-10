@@ -1,0 +1,29 @@
+
+*
+
+
+!skill 11/
+!skill 11/**
+
+
+skill 11/node_modules/
+skill 11/dist/
+skill 11/dist-ssr/
+skill 11/*.log
+skill 11/npm-debug.log*
+skill 11/yarn-debug.log*
+skill 11/yarn-error.log*
+skill 11/pnpm-debug.log*
+skill 11/lerna-debug.log*
+skill 11/*.local
+
+
+skill 11/.vscode/*
+!skill 11/.vscode/extensions.json
+skill 11/.idea
+skill 11/.DS_Store
+skill 11/*.suo
+skill 11/*.ntvs*
+skill 11/*.njsproj
+skill 11/*.sln
+skill 11/*.sw?
